@@ -1,12 +1,26 @@
 ![](asset/header.png)
 
-<h1 align="center">Hi 👋, I'm Yusuf Masroor-Ahmad</h1>
+<h1 align="center">Hi 👋, I'm YUSUF MASROOR-AHMAD</h1>
 <h3 align="center">Software Engineer</h3>
 
-**💼 Currently working as:** Software Engineer at <a href="https://github.com/orgs/sysbeams/" target="_blank"><b>Sysbeams</b></a>.
+💡 Passionate about building **scalable applications**, crafting **modern UI/UX**, and delivering **efficient backend systems**.
+
 🦸 Career Aim -to  Work for a cool and a productive  company! 
 
- Strategic Software Engineer skilled in application development, testing and optimization. Excels at coordinating ground-up planning, programming and implementation for core modules. Maintains strong object-oriented and software architecture fundamentals. . I have had my time as a software developer in developing projects related to Human Resource, Ecommerce  applications, with repeated records of innovative approaches and problem-solving techniques for thousands of users, for globally deployed software and systems. 
+ Strategic Software Engineer skilled in application development, testing and optimization. Excels at coordinating ground-up planning, programming and implementation for core modules. Maintains strong object-oriented and software architecture fundamentals. . I have had my time as a software developer in developing projects related to Human Resource, Ecommerce  applications, with repeated records of innovative approaches and problem-solving techniques for thousands of users, for globally deployed software and systems.---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks**
+- **Backend:** .NET (C#, ASP.NET Core, Blazor), Node.js, Express.js
+- **Frontend:** React.js, Next.js, Flutter
+- **Databases:** MSSQL, PostgreSQL  
+- **Others:** Dart, JavaScript (ES6+), HTML, CSS  
+
+**Tools & Platforms**
+- Git, Docker, Azure DevOps, NATS Messaging, Paystack Integration, EFCore ORM  
+
+---
+
 
  <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damilare1212&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
@@ -131,6 +145,16 @@
 <img src="https://streak-stats.demolab.com?user=YusuffAhmad&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
 </p>
 
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damilare1212&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damilare1212&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/masroor-ahmad-yusuf-1935302a1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Damilare1212)
  
 
- # Yusuf-Masroor-Ahmad  AKA  - Dotnet-Guy
+ # Yusuf-Masroor-Ahmad        AKA  - Dotnet-Guy
