@@ -21,19 +21,15 @@
 
 ---
 
-
- <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damilare1212&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=Damilare1212&show_icons=true&theme=tokyonight&count_private=true" alt="yusuf Masroor-Ahmad" height="160" />
-</p>
-
-
 <p align="center">
 #### 💻 Personal Projects Contributions.
 
 🧑‍⚕️ [Health Application](https://github.com/Damilare1212/HETTISENTIAL-APP): A .NET health directory application that incorporates google map for seamless interaction within the application.
 
 💥 [Payroll Application](https://github.com/Damilare1212/SimplePayRollApp): A .NET application that incorporates the Nigeria Employee Taxing System.
+
+- [**Event Management System – Jalsa**](https://github.com/Damilare1212/NewJalsa)  
+  _Next.js_ – A full event management platform with dynamic event schedules, participant management, and smooth navigation.
 
 </p>
 
@@ -53,7 +49,7 @@
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://www.linkedin.com/in/Masroor-Ahmad" alt="masroor's linkedin">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/faroukoyekunle" />
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://https://www.linkedin.com/in/masroor-ahmad-yusuf-1935302a1" />
  </a>
  <a href="https://masroor.netlify.app" alt="masroor's blog">
    <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
@@ -150,6 +146,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damilare1212&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damilare1212&layout=compact&theme=radical)
 
+
+ <p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damilare1212&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Damilare1212&show_icons=true&theme=tokyonight&count_private=true" alt="yusuf Masroor-Ahmad" height="160" />
+
+</p>
+
+
 ---
 
 ## 📫 Connect with Me
@@ -157,4 +162,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Damilare1212)
  
 
- # Yusuf-Masroor-Ahmad        AKA  - Dotnet-Guy
+ # Yusuf-Masroor-Ahmad    -       AKA  - Dotnet-Guy
