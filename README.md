@@ -48,9 +48,9 @@
  <a href="https://github.com/Damilare1212" alt="masroor's github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
- <a href="https://www.linkedin.com/in/Masroor-Ahmad" alt="masroor's linkedin">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://https://www.linkedin.com/in/masroor-ahmad-yusuf-1935302a1" />
- </a>
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/masroor-ahmad-yusuf-1935302a1)
+ 
  <a href="https://masroor.netlify.app" alt="masroor's blog">
    <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
  </a>
